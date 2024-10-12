@@ -5,15 +5,6 @@
       "name": "Movies",
       "videos": [
         {
-          "descriptionReli": "BERO GOSPEL est l'une des Televisions en charactere Gospel avec la diversite sans stop de la Musique Religieuse, Prédications et autres... Sans oublier des Emissions special chretienne. Veuillez nous contacter : congomonpays243@gmail.com.",
-          "sourceReli": [
-            "https://stream.zeno.fm/3rbd2vdzpqlvv.mp3"
-          ],
-          "subtitleReli": "By Channel",
-          "thumbReli": "https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg",
-          "titleReli": "BERO GOSPEL"
-        },
-        {
           "descriptionReli": "Radio Télé Silo est une chaîne chrétienne",
           "sourceReli": [
             "https://jr7yv9gmla4v-hls-live.5centscdn.com/radiotvsilo/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
@@ -52,7 +43,7 @@
         {
           "descriptionReli": "AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques et autres chritienne....",
           "sourceReli": [
-            "https://amigofx.com:1936/ayatv/ayatv/playlist.m3u8"
+            "https://helga.iptv2022.com/sh/Aya_TV/tracks-v1a1/mono.m3u8"
           ],
           "subtitleReli": "By Channel",
           "thumbReli": "https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg",
