@@ -44,6 +44,16 @@
           "thumbReli": "https://od.lk/s/NDZfODQ0OTc1NjNf/gnftv.png",
           "titleReli": "GNF TV"
         },
+         {
+          "descriptionReli": "EMCI TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne.",
+          "sourceReli": [
+            "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emcieurope.m3u8"
+          ],
+          "subtitleReli": "All Channel",
+          "numberReli": "916",
+          "thumbReli": "https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg",
+          "titleReli": "EMCI TV"
+        },
         {
           "descriptionReli": "Miracle TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres chritienne....",
           "sourceReli": [
@@ -173,7 +183,87 @@
           "numberReli": "529",
           "thumbReli": "https://od.lk/s/M18yODQ2ODkyOTdf/Ecclesia.jpeg",
           "titleReli": "ECCLESIA TV 2"
-        } 
+        },
+         {
+          "descriptionReli": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner",
+          "sourceReli": [
+            "https://stream.berosat.live:19360/der-tv/der-tv.m3u8"
+          ],
+          "subtitleReli": "All Channel",
+          "numberReli": "917",
+          "thumbReli": "https://od.lk/s/NDZfNzc3NDIyNjVf/dertv.jpg",
+          "titleReli": "DER-TV"
+        },
+        {
+          "descriptionReli": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation..",
+          "sourceReli": [
+            "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
+          ],
+          "subtitleReli": "All Channel",
+          "numberReli": "918",
+          "thumbReli": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
+          "titleReli": "JSN TV"
+        },
+        {
+          "descriptionReli": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés...",
+          "sourceReli": [
+            "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
+          ],
+          "subtitleReli": "All Channel",
+          "numberReli": "919",
+          "thumbReli": "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8",
+          "titleReli": "EMB MISSION TV"
+        },
+        {
+          "descriptionReli": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.",
+          "sourceReli": [
+            "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8"
+          ],
+          "subtitleReli": "All Channel",
+          "numberReli": "920",
+          "thumbReli": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg",
+          "titleReli": "GOLGOTHA TV"
+        },
+         {
+          "descriptionReli": "Novo Sopro TV est une chrétienne qui diffuse que des des predications, musiques et autres.....",
+          "sourceReli": [
+            "https://stream.berosat.live:19360/novo-index/novo-index.m3u8"
+          ],
+          "subtitleReli": "All Channel",
+          "numberReli": "921",
+          "thumbReli": "https://od.lk/s/NDZfODczNTIwODRf/novosopro.jpg",
+          "titleReli": "NOVO SOPRO TV"
+        },
+        {
+          "descriptionReli": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.",
+          "sourceReli": [
+            "https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"
+          ],
+          "subtitleReli": "All Channel",
+          "numberReli": "922",
+          "thumbReli": "https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg",
+          "titleReli": "ESAIE 45 TELE"
+        },
+        {
+          "descriptionReli": "RTV SEP télévision est la chaîne chretienne du vrai message du temp de la fin emettant depuis la Republique Democratique du Congo, sur l'avenue Kabinda No 197 dans la commune de Lingwala. Contact +243 89 55 38 25",
+          "sourceReli": [
+            "https://stream.berosat.live:19360/sep-index/sep-index.m3u8"
+          ],
+          "subtitleReli": "All Channel",
+          "numberReli": "923",
+          "thumbReli": "https://od.lk/s/NDZfODc3NzAwNDBf/septv.jpg",
+          "titleReli": "RTV SEP"
+        },
+        {
+          "descriptionReli": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information",
+          "sourceReli": [
+            "https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8"
+          ],
+          "subtitleReli": "All Channel",
+          "numberReli": "924",
+          "thumbReli": "https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg",
+          "titleReli": "RTE TV HD"
+        }
       ]
     }
   ]
