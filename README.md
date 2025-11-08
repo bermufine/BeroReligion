@@ -111,7 +111,7 @@
           ],
           "subtitleReli": "All Channel",
           "numberReli": "86",
-          "thumbReli": "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8",
+          "thumbReli": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg",
           "titleReli": "EMB MISSION TV"
         },
         {
