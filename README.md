@@ -54,6 +54,16 @@
           "thumbReli": "https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg",
           "titleReli": "EMCI TV"
         },
+        {
+          "descriptionReli": "EMCI TV America is a Christian channel that features biblical teachings, sermons, and exhortations for the development of your Christian faith.",
+          "sourceReli": [
+            "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciamerique.m3u8"
+          ],
+          "subtitleReli": "All Channel",
+          "numberReli": "917",
+          "thumbReli": "https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg",
+          "titleReli": "EMCI USA"
+        },
          {
           "descriptionReli": "GOD TV aims to bring families together to watch a variety of unique and inspiring shows and ranging from entertainment kids programming educational documentaries and Nasheed enriching their lives and empowering them.",
           "sourceReli": [
